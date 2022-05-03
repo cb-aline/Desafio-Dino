@@ -10,7 +10,7 @@ Desafio de código da DIO, recriar o jogo do dinossauro do Google utilizando ape
 - README.md
 
 
-###Fontes: 
+#### Fontes: 
  - Aulas da DIO;
  - Youtube (Link1: https://www.youtube.com/watch?v=i6t2jaRxos4 ; Link2: https://www.youtube.com/watch?v=cYuY_l3dj-k ;
  
